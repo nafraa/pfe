@@ -1,0 +1,1 @@
+web:gunicrorn app:app

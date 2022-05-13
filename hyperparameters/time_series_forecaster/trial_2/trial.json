@@ -1,0 +1,34 @@
+    
+{"class_name": "Choice",
+"config": {"name": "timeseries_block_1/rnn_block_1/layer_type", "default": "lstm", "conditions": [],
+"values": ["gru", "lstm"], "ordered": false}}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
